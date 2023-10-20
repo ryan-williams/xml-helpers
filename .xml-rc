@@ -13,3 +13,4 @@ defn uq url-query.py
 defn svg2jsx svg-to-jsx.py
 
 defn md-toc make-toc.py
+defn mti make-toc.py -i
