@@ -11,6 +11,3 @@ defn hu html-unescape.py
 defn uq url-query.py
 
 defn svg2jsx svg-to-jsx.py
-
-defn md_toc make-toc.py
-defn mti make-toc.py -i
