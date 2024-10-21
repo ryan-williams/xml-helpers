@@ -8,6 +8,8 @@ defn pxi prettyprint-xml-in-place
 defn pix prettyprint-xml-in-place
 
 defn hu html-unescape.py
+defn hue html-unescape.py
+
 defn uq url-query.py
 
 defn svg2jsx svg-to-jsx.py
